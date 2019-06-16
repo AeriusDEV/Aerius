@@ -12,7 +12,7 @@ WHY AERIUS?
 -Feel free to download my shaderpack, test it and decide yourself if you want to use my shaders!
 
 Aerius REQUIRES OPTIFINE -\
-			 > https://mega.nz/#!el9RBIxC!T5Yhiob97QlAw6Xrof9vVuPJ0PgBWLnnWYEdsINMurU
+				 >
 
 
 OptiFine is a Minecraft optimization mod.
